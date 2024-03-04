@@ -4,7 +4,7 @@
 
 ### Project Name 1
 
-My complete implementation of assignments and projects in ***Skills For Hire Atlantic*** (January to May, 2024).
+My complete implementation of assignments and projects in ***Skills For Hire Atlantic*** (January 2024 to May 2024).
 
 Description of project here.
 
