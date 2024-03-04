@@ -1,0 +1,19 @@
+title: <p align="center"> Amanda Erakovic </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/amanda-erakovic-51a29b2a9/">LinkedIn</a> |
+  <a href="https://github.com/amandaerakovic">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Description about me here.
+  <br><br>
+  More stuff about me here.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
