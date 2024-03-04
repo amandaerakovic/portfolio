@@ -6,7 +6,7 @@
 
 My complete implementation of assignments and projects in [***Skills For Hire Atlantic***](http://google.ca) (January to May, 2024).
 
-[![Run in Google Colab]https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
 
 **Project Name Here** Description of project here.
 
