@@ -2,18 +2,18 @@
 ---
 ## Data Analytics
 
-### Project Description 1
+### Project Name 1
 
 My complete implementation of assignments and projects in ***Skills For Hire Atlantic*** (January to May, 2024).
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
+Description of project here.
 
-**Project Name Here** Description of project here.
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
 
 <center><img src="pathtoimage/here"/></center>
 
 ---
-### Project Description 2
+### Project Name 2
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
 
@@ -24,7 +24,7 @@ My complete implementation of assignments and projects in ***Skills For Hire Atl
 ---
 ## Data Science
 
-### Project Description 1
+### Project Name 1
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
 
@@ -34,7 +34,7 @@ My complete implementation of assignments and projects in ***Skills For Hire Atl
 <br>
 
 ---
-### Project Description 2
+### Project Name 2
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
 
