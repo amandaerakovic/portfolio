@@ -4,7 +4,7 @@
 
 ### Project Description 1
 
-My complete implementation of assignments and projects in [***Skills For Hire Atlantic***](http://google.ca) (January to May, 2024).
+My complete implementation of assignments and projects in ***Skills For Hire Atlantic*** (January to May, 2024).
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/mydrive/notebook)
 
